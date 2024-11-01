@@ -1,0 +1,1 @@
+<?php wpdeals_get_template( 'deal_taxonomy.php' ); ?>
